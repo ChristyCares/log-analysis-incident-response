@@ -11,7 +11,7 @@ This project simulates an incident response exercise by parsing system logs to i
 
 ## Current Status
 Project setup complete. Log samples and parser design in progress.  
-Expected next update: November 5, 2025.
+Expected next update: November 30, 2025.
 
 ## Tools & Skills
 - Python 3
